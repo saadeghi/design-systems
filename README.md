@@ -143,9 +143,9 @@ https://manual.louderthanten.com/
 47. Ray by WeWork  
 https://ray.wework.com/
 
-48. Lightning Design System by Salesforce
+48. Lightning Design System by Salesforce  
 https://lightningdesignsystem.com/
 
-49. Braid Design System by SEEK
+49. Braid Design System by SEEK  
 https://github.com/seek-oss/braid-design-system
 
