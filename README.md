@@ -53,3 +53,23 @@ A list of famous design systems, design languages and guidelines
 | 48 | Lightning Design System by Salesforce | https://lightningdesignsystem.com/ |
 | 49 | Braid Design System by SEEK | https://github.com/seek-oss/braid-design-system |
 | 50 | Mailchimp Pattern Library | https://ux.mailchimp.com/patterns/buttons |
+| 51 | Workday Canvas Design System | https://design.workday.com/
+| 52 | Vue Design System | https://vueds.com/
+| 53 | Thumbprint Design System | https://thumbprint.design/
+| 54 | Paste by Twilio | https://paste.twilio.design/
+| 55 | Vanilla Framework by Canonical Web Team | https://vanillaframework.io/
+| 56 | University of Melbourne Design System | https://web.unimelb.edu.au/
+| 57 | Stacks by Stack Overflow | https://stackoverflow.design/product/guidelines/using-stacks/
+| 58 | Starbucks pattern library | https://www.starbucks.com/developer/pattern-library
+| 59 | Sky Toolkit | https://www.sky.com/toolkit
+| 60 | Ratio by Rambler | https://ui-kit.rambler.ru/
+| 61 | Radix by Modulz | https://radix.modulz.app/docs/getting-started/
+| 62 | Pulse by Heartbeat Agency | https://pulse.heartbeat.ua/
+| 63 | Predix Design System | https://www.predix-ui.com/
+| 64 | NationBuilder Radius | https://www.nationbuilder.design/
+| 65 | Finastra Design System | https://design.fusionfabric.cloud/
+| 66 | Bumbag UI Kit | https://bumbag.style/
+| 67 | Solar Design System by Bulb | https://design.bulb.co.uk/getting-started/introduction
+| 68 | Blip Toolkit | https://design.blip.ai/
+| 69 | Bold Design System | https://bold.bridge.ufsc.br/en/
+| 70 | Mesh Design System | https://www.meshdesignsystem.com/
