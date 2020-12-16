@@ -73,3 +73,4 @@ A list of famous design systems, design languages and guidelines
 | 68 | Blip Toolkit | https://design.blip.ai/
 | 69 | Bold Design System | https://bold.bridge.ufsc.br/en/
 | 70 | Mesh Design System | https://www.meshdesignsystem.com/
+| 71 | Fluid Design System by ENGIE.design | https://www.engie.design/fluid-design-system/
