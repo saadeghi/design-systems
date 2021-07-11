@@ -76,3 +76,4 @@ A list of famous design systems, design languages and guidelines
 | 71 | Fluid Design System by ENGIE.design | https://www.engie.design/fluid-design-system/
 | 72 | Fiori Design Guidelines by SAP | https://experience.sap.com/fiori-design-web/
 | 73 | Priceline One Design System | https://priceline.github.io/
+| 74 | Sonnat Design System | https://www.sonnat.dev/
