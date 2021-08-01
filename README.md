@@ -77,3 +77,5 @@ A list of famous design systems, design languages and guidelines
 | 72 | Fiori Design Guidelines by SAP | https://experience.sap.com/fiori-design-web/
 | 73 | Priceline One Design System | https://priceline.github.io/
 | 74 | Sonnat Design System | https://www.sonnat.dev/
+| 75 | Base Web by Uber | https://baseweb.design/
+
