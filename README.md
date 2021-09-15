@@ -82,5 +82,5 @@ A list of famous design systems, design languages and guidelines
 | 77 | Primer Design System by GitHub | https://primer.style/
 | 78 | Fast by Microsoft | https://www.fast.design/
 | 79 | MindSphere Design System by Siemens | https://design.mindsphere.io/
-
+| 80 | W3C Design System | https://design-system.w3.org/
 
