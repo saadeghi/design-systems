@@ -78,7 +78,7 @@ A list of famous design systems, design languages and guidelines
 | 73 | Priceline One Design System | https://priceline.github.io/
 | 74 | Sonnat Design System | https://www.sonnat.dev/
 | 75 | Base Web by Uber | https://baseweb.design/
-| 76 | Rock UI by rockcontent | https://design.rockcontent.com/
+| 76 | Reverb by RockContent | https://reverb.rockcontent.com/
 | 77 | Primer Design System by GitHub | https://primer.style/
 | 78 | Fast by Microsoft | https://www.fast.design/
 | 79 | MindSphere Design System by Siemens | https://design.mindsphere.io/
