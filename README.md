@@ -70,7 +70,7 @@ A list of famous design systems, design languages and guidelines
 | 65 | Finastra Design System | https://design.fusionfabric.cloud/
 | 66 | Bumbag UI Kit | https://bumbag.style/
 | 67 | Solar Design System by Bulb | https://design.bulb.co.uk/getting-started/introduction
-| 68 | Blip Toolkit | https://design.blip.ai/
+| 68 | Blip Design System by Take.net | https://design.take.net/
 | 69 | Bold Design System | https://bold.bridge.ufsc.br/en/
 | 70 | Mesh Design System | https://www.meshdesignsystem.com/
 | 71 | Fluid Design System by ENGIE.design | https://www.engie.design/fluid-design-system/
