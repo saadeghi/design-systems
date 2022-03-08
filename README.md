@@ -85,3 +85,5 @@ A list of famous design systems, design languages and guidelines
 | 80 | W3C Design System | https://design-system.w3.org/
 | 81 | Wanda Design System | https://design.wonderflow.ai/
 | 82 | Priceline Design System | https://priceline.github.io/
+| 83 | Nord Design System | https://nordhealth.design/
+
