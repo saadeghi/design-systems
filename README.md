@@ -87,4 +87,4 @@ A list of famous design systems, design languages and guidelines
 | 82 | Priceline Design System | https://priceline.github.io/
 | 83 | Nord Design System | https://nordhealth.design/
 | 84 | Pajamas Design System by GitLab | https://design.gitlab.com/
-
+| 85 | NeoPOP components library based on CRED's design system | https://github.com/CRED-CLUB/neopop-web
