@@ -91,3 +91,4 @@ A list of famous design systems, design languages and guidelines
 | 86 | Gamut Design System by Codecademy | https://gamut.codecademy.com/
 | 87 | Neumorphism UI Kit by Themesberg | https://demo.themesberg.com/neumorphism-ui/
 | 88 | Vibe Design System by Monday | https://style.monday.com/
+| 89 | Cloudscape Design System by AWS | https://cloudscape.design/
