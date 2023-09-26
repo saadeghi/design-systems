@@ -16,7 +16,7 @@ A list of famous design systems, design languages and guidelines
 | 11 | Audi Brand Appearance | https://www.audi.com/ci/en/intro/brand-appearance.html |
 | 12 | Uber Brand Guidelines | https://brand.uber.com/guide |
 | 13 | U.S. Web Design System (USWDS) | https://designsystem.digital.gov/ |
-| 14 | Australina Government Design System | https://designsystem.gov.au/ |
+| 14 | Australian Government Design System | https://designsystem.gov.au/ |
 | 15 | Bolt Design System | https://boltdesignsystem.com/ |
 | 16 | Clarity Design System by VMware | https://clarity.design/ |
 | 17 | Spectrum by Adobe | https://spectrum.adobe.com/ |
