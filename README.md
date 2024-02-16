@@ -45,7 +45,7 @@ A list of famous design systems, design languages and guidelines
 | 40 | Lonely Planet Style Guide | https://rizzo.lonelyplanet.com/styleguide/design-elements/colours |
 | 41 | Lexicon by Liferay | https://liferay.design/lexicon/ |
 | 42 | Duet Design System | https://www.duetds.com/ |
-| 43 | Cedar Design System | https://rei.github.io/rei-cedar-docs/ |
+| 43 | Cedar Design System | https://cedar.rei.com |
 | 44 | Future Learn Design System | https://design-system.futurelearn.com/ |
 | 45 | Fish Tank by Bloomberg | https://fishtank.bna.com/ |
 | 46 | Louder Than Ten | https://manual.louderthanten.com/ |
